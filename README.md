@@ -1,6 +1,6 @@
 # memmon
 
-![build status](https://github.com/tonywei92/memmon/actions/workflows/go.yml/badge.svg)
+![build status](https://github.com/tonywei92/memmon/actions/workflows/build.yml/badge.svg)
 
 ![Memory Monitor Screenshot](screenshot.png)
 
