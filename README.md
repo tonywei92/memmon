@@ -1,5 +1,7 @@
 # memmon
 
+![build status](https://github.com/tonywei92/memmon/actions/workflows/go.yml/badge.svg)
+
 ![Memory Monitor Screenshot](screenshot.png)
 
 `memmon` is a utility designed to monitor your Memory usage and provide notifications through beeps and/or by executing a specified command.
