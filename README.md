@@ -6,6 +6,8 @@
 
 For example, it can be useful for sending an email by triggering an API with a `curl` command that corresponds to this action.
 
+> Interested in monitoring your system CPU too? Check out [cpumon](https://github.com/tonywei92/cpumon)!
+
 ## Download
 
 Head to [release](https://github.com/tonywei92/memmon/releases/latest) page, choose the appropriate binary for your operating system and architecture from the available options, and extract.
